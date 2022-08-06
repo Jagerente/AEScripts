@@ -1,0 +1,2 @@
+- Scales selected layer up to 155% to remove UI
+- Duplicates selected layer twice for HP & Status Bar masks
